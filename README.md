@@ -1,2 +1,2 @@
 # drumKit
-a drum kit using HTML, CSS and JS
+a web based drum kit using HTML, CSS and JS
